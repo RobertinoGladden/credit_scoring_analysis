@@ -1,4 +1,6 @@
-# Laporan Proyek Machine Learning - [Nama Anda]
+# Laporan Proyek Machine Learning - Predictive Analytics
+Nama Lengkap: Robertino Gladden Narendra
+Cohort ID   : MC012D5Y2381
 
 ## Project Overview
 
